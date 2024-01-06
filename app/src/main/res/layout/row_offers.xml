@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearItem"
+        android:layout_margin="@dimen/_5sdp"
+        android:padding="@dimen/_8sdp"
+        android:background="@drawable/bg_white_orange_border"
+        android:backgroundTint="#f3f3f3"
+        android:elevation="@dimen/_10sdp">
+
+        <ImageView
+            android:id="@+id/iv_vehicle_image"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_100sdp"
+            android:src="@drawable/ic_truck" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:gravity="end"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_discount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textAllCaps="true"
+                android:fontFamily="@font/roboto_bold"
+                android:textColor="@color/orange"
+                android:textSize="@dimen/_20sdp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:id="@+id/tvOnBooking"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/_12sdp"
+                android:fontFamily="@font/roboto_regular" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@color/darkgray"
+                android:id="@+id/tvTruckName"
+                android:textSize="@dimen/_12sdp"
+                android:fontFamily="@font/roboto_medium"
+                android:textAllCaps="true" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:id="@+id/tv_distance"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/_11sdp"
+                android:fontFamily="@font/roboto_italic" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_bookNow"
+                android:layout_width="@dimen/_70sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_gravity="end"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@drawable/bg_orange_rounded_edges"
+                android:text="@string/book_now"
+                android:fontFamily="@font/roboto_medium"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_10sdp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</layout>

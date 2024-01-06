@@ -1,0 +1,19 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="100dp"
+    app:behavior_skipCollapsed="true"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_100sdp"
+        android:text="Hello"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="@dimen/_20sdp"
+        />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

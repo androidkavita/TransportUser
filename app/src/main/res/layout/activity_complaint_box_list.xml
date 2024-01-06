@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <include
+            android:id="@+id/header"
+            layout="@layout/header" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/_10sdp"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_40sdp"
+                    android:background="@drawable/tab_full_round_bg_gray"
+                    >
+
+                    <com.google.android.material.tabs.TabLayout
+                        android:id="@+id/tabLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        app:tabMode="fixed"
+                        android:layout_margin="@dimen/_1sdp"
+                        app:tabBackground="@drawable/tab_layout_selector"
+                        app:tabSelectedTextColor="@color/white"
+                        app:tabTextColor="@color/theme_yellow"
+                        app:tabIndicatorHeight="0dp"
+                        app:tabRippleColor="@null"
+                        app:tabGravity="fill"
+
+
+                        android:fillViewport="false"
+                        android:layout_gravity="center"
+                        app:tabTextAppearance="@style/TabTextAppearance"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!--<androidx.recyclerview.widget.RecyclerView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/rv_notification"
+          tools:listitem="@layout/row_triphistory_list"/>-->
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/id_viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/_10sdp"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</layout>

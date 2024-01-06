@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoVahan</string>
+    <string name="hello_blank_fragment" >नमस्ते खाली टुकड़ा</string>
+    <string name="make_sure_you_have_an_active_data_connection">सुनिश्चित करें कि आपके पास एक सक्रिय डेटा कनेक्शन है</string>
+    <string name="connection_timeout">कनेक्शन का समय समाप्त</string>
+    <string name="oops_somethings_went_wrong">उफ़! कुछ गलत हो गया</string>
+    <string name="from">"से "</string>
+    <string name="gurugram">"गुरुग्राम "</string>
+    <string name="to">"प्रति "</string>
+    <string name="noida">नोएडा</string>
+    <string name="selectdate">"तारीख़ चुनें"</string>
+    <string name="attachment_summary_on">आने वाले ईमेल के लिए अटैचमेंट को अपने आप डाउनलोड करें</string>
+    <string name="attachment_summary_off">मैन्युअल रूप से अनुरोध किए जाने पर ही अटैचमेंट डाउनलोड करें</string>
+    <string name="attachment_title">शिकायत उठाएँ</string>
+    <string name="sync_title">ईमेल को समय-समय पर सिंक करें</string>
+    <string name="reply_title">डिफ़ॉल्ट उत्तर क्रिया</string>
+    <string name="signature_title">आपके हस्ताक्षर</string>
+    <string name="sync_header">साथ-साथ करना</string>
+    <string name="messages_header">संदेश</string>
+    <string name="title_activity_settings">सेटिंग गतिविधि</string>
+    <string name="check_network_connection">कृपया अपने इंटरनेट कनेक्शन की जाँच करें</string>
+    <string name="contactus">संपर्क करें</string>
+    <string name="freightamount">भाड़ा की रकम</string>
+    <string name="drivers">"चालक "</string>
+    <string name="rto_doc">आरटीओ दस्तावेज़</string>
+    <string name="fitnesspapers">"वाहन फिटनेस पेपर "</string>
+    <string name="rcphoto">आरसी फोटो</string>
+    <string name="vehiclenname">वाहन का नाम</string>
+    <string name="referralcode">रेफरल कोड (वैकल्पिक)</string>
+    <string name="addPassengerVehicle">"Add Passenger Vehicle "</string>
+    <string name="role">भूमिका</string>
+    <string name="cancellation">
+रद्दीकरण &amp; भुगतान वापसी की नीति</string>
+    <string name="passenger_vehicle">यात्री वाहन</string>
+    <string name="loremdummytext">"लोरेम इप्सम प्रिंटिंग और टाइपसेटिंग उद्योग का केवल डमी टेक्स्ट है। लोरेम इप्सम 1500 के दशक से उद्योग का मानक डमी टेक्स्ट रहा है, जब एक अज्ञात प्रिंटर ने गैली का प्रकार लिया और एक प्रकार की नमूना पुस्तक बनाने के लिए इसे हाथापाई की। यह न केवल पांच शताब्दियों तक जीवित रहा है, बल्कि इलेक्ट्रॉनिक टाइपसेटिंग में भी छलांग लगाई है, जो अनिवार्य रूप से अपरिवर्तित है। इसे 1960 के दशक में लोरेम इप्सम पैसेज वाले लेट्रासेट शीट्स के रिलीज के साथ लोकप्रिय किया गया था, और हाल ही में डेस्कटॉप प्रकाशन सॉफ्टवेयर जैसे एल्डस पेजमेकर के साथ लोरेम इप्सम के संस्करण भी शामिल थे। "</string>
+    <string name="hint_bookingid">बुकिंग आईडी:</string>
+    <string name="hint_distance">41.5 किमी</string>
+    <string name="hint_stop">गुरुग्राम सेक्टर 30</string>
+    <string name="hint_start">सेक। 15 नोएडा</string>
+    <string name="hint_date">30 मई 2022</string>
+    <string name="hint_ton">2.5 टन</string>
+    <string name="hint_truckname">टाटा 407</string>
+    <string name="upcomingbookings">" सीट क्षमता:"</string>
+    <string name="approvalwaittext">कृपया व्यवस्थापक से अनुमोदन की प्रतीक्षा करें।</string>
+    <string name="approvalwait">अनुमोदन के लिए प्रतीक्षा करें!</string>
+    <string name="pollutiondocpdf">प्रदूषण-दस्तावेज़.pdf</string>
+    <string name="pollutiondoc">प्रदूषण दस्तावेज़</string>
+    <string name="insurancedocpdf">बीमा-दस्तावेज़.pdf</string>
+    <string name="insurancedoc">बीमा दस्तावेज</string>
+    <string name="rcbookpdf">आरसी-बुक.jpg</string>
+    <string name="rcbook">आरसी बुक</string>
+    <string name="uploaddoc">दस्तावेज़ अपलोड करें</string>
+    <string name="uploadtruckphoto">Upload Your Truck Photo</string>
+    <string name="selecttime">समय स्लॉट का चयन करें</string>
+    <string name="datehint">12-जुलाई-2022</string>
+    <string name="timehint">दोपहर 12 बजे</string>
+    <string name="myprofile">मेरी प्रोफाइल</string>
+    <string name="bookinghistory">बुकिंग इतिहास</string>
+    <string name="favouritelocations">पसंदीदा स्थान</string>
+    <string name="password">*********</string>
+    <string name="entermobileno">मोबाइल नंबर दर्ज करें</string>
+    <string name="enter_password" >पास वर्ड दर्ज करें</string>
+    <string name="enter_confirm_password" >पासवर्ड की पुष्टि दर्ज करें</string>
+    <string name="otp" >ओटीपी</string>
+    <string name="createpassword" >पासवर्ड बनाएं</string>
+    <string name="r_confirm_password" >पासवर्ड</string>
+    <string name="r_password" >पासवर्ड</string>
+    <string name="next" >अगला</string>
+    <string name="officeshifting" >"कार्यालय स्थानांतरण "</string>
+    <string name="enterloadcarrying" >भार वहन दर्ज करें</string>
+    <string name="ton5" >5 टन</string>
+    <string name="vehicletype" >वाहन का प्रकार</string>
+    <string name="tatarigidtruck" >टाटा कठोर ट्रक</string>
+    <string name="vehiclenumber" >गाडी नंबर</string>
+    <string name="up5c4589" >यूपी 5सी 4589</string>
+    <string name="assigndriver" >ड्राइवर असाइन करें</string>
+    <string name="totalkilometers" >कुल किलोमीटर</string>
+    <string name="triptask" >ट्रिप टास्क</string>
+    <string name="driverlist" >चालक सूची</string>
+    <string name="driving_license_number" >ड्राइविंग लाइसेंस नंबर</string>
+    <string name="phonenumber" >फ़ोन नंबर</string>
+    <string name="addthisdriver" >इस ड्राइवर को जोड़ें</string>
+    <string name="transactionreport" >लेनदेन रिपोर्ट</string>
+    <string name="notification" >अधिसूचना</string>
+    <string name="rateapplication" >दर आवेदन</string>
+    <string name="term_and_condition">नियम और शर्तें</string>
+    <string name="drivingexperience" >Driving Experience</string>
+    <string name="drivername" >चालक का नाम</string>
+    <string name="downloadpdf" >PDF के रूप में डाउनलोड करें</string>
+    <string name="hintaddress" >अपना पता यहां टाइप करें</string>
+    <string name="address" >पता</string>
+    <string name="email" >ईमेल</string>
+    <string name="phoneno" >फोन नंबर।</string>
+    <string name="head_accountverification">खाता सत्यापन</string>
+    <string name="dummy_text">"अभ्यास पाठ"</string>
+    <string name="forgotpassword">पासवर्ड भूल गए?</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="signup">साइन अप करें</string>
+    <string name="or">या</string>
+    <string name="trucknumber">ट्रक का नंबर</string>
+    <string name="capacity">"क्षमता"</string>
+    <string name="seatingcapacity">बैठने की क्षमता</string>
+    <string name="color">रंग</string>
+    <string name="rameshemail">रमेश@2345</string>
+    <string name="silvergray">सिल्वर ग्रे</string>
+    <string name="price">कीमत</string>
+    <string name="pricehint">रु. 5,000</string>
+    <string name="addthistrip">इस यात्रा को जोड़ें</string>
+    <string name="addtruckdoc">प्रस्तुत करना</string>
+    <string name="specification">विनिर्देश</string>
+    <string name="truckname">ट्रक का नाम</string>
+    <string name="hinttataintra">टाटा इंट्रा v30</string>
+    <string name="yearofmodel">मॉडल का वर्ष</string>
+    <string name="hint2015">दो हज़ार पन्द्रह</string>
+    <string name="hintkilom">तीन सौ पचास</string>
+    <string name="licno">एलआईसी सं. एचआर-061985003476</string>
+    <string name="ramesh">रमेश सोलंकी</string>
+    <string name="referandearn">"देखें और कमाएं "</string>
+    <string name="usernamehint">उपयोगकर्ता@3456</string>
+    <string name="years5">५ साल</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="licensenumber">एचआर-7777******</string>
+    <string name="hintphn">+91 123456789</string>
+    <string name="pramod">प्रमोद गुप्ता</string>
+    <string name="bsltransport">बीएसएल परिवहन</string>
+    <string name="fullname">पूरा नाम</string>
+    <string name="companyname">कंपनी का नाम</string>
+    <string name="adddriver">ड्राइवर जोड़ें</string>
+    <string name="addtrip">"यात्रा जोड़ें "</string>
+    <string name="viewtrip">यात्रा देखें</string>
+    <string name="tripbook">ट्रिप बुक</string>
+    <string name="truckdocument">ट्रक दस्तावेज़</string>
+    <string name="passengervehicle">"यात्री वाहन "</string>
+    <string name="loadervehicle">लोडर वाहन</string>
+    <string name="selectservicetype">सेवा प्रकार चुनें</string>
+    <string name="createbusinesscard">"Create Business Card "</string>
+    <string name="done">पूर्ण</string>
+    <string name="headpassword">पासवर्ड</string>
+    <string name="userid">यूज़र आईडी</string>
+    <string name="vehicle_number">गाडी नंबर</string>
+    <string name="vehicle_registration_no">वाहन पंजीकरण संख्या</string>
+    <string name="reg_no">यूपी 3डी 1234</string>
+    <string name="type_of_vehicles">वाहनों का प्रकार</string>
+    <string name="total_driver">कुल चालक</string>
+    <string name="driver_name">चालक का नाम</string>
+    <string name="driver_name_choose">चालक का नाम:</string>
+    <string name="driver_license_number">चालक लाइसेंस संख्या</string>
+    <string name="addmore">अधिक जोड़ें</string>
+    <string name="submit">प्रस्तुत करना</string>
+    <string name="gstnum" >22AAAAA0000A125</string>
+    <string name="gst_no">जीएसटी संख्या</string>
+    <string name="examplegmail">उदाहरण@gmail.com</string>
+    <string name="email_address">ईमेल पता</string>
+    <string name="mobnumber">880222 ****</string>
+    <string name="mobileno">मोबाइल नंबर</string>
+    <string name="first_name">पहला नाम</string>
+    <string name="drawer_close">नेविगेशन दराज बंद करें</string>
+    <string name="drawer_open">नेविगेशन दराज खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन दराज बंद करें</string>
+    <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="privacypolicy">गोपनीयता नीति</string>
+    <string name="rateapp">दर आवेदन</string>
+    <string name="aboutus">हमारे बारे में</string>
+    <string name="complaintbox">शिकायत पेटी</string>
+    <string name="myoffers">मेरे प्रस्ताव</string>
+    <string name="paymentoptions">भुगतान विकल्प</string>
+    <string name="invoices">"चालान "</string>
+    <string name="settings">समायोजन</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="blank">खाली</string>
+    <string name="enter_trip_task">टायरों की संख्या</string>
+    <string name="search_here">यहां तलाश करो</string>
+    <string name="no_of_tyres">टायरों की संख्या</string>
+    <string name="search_and_proceed">खोजें और आगे बढ़ें</string>
+    <string name="heading">शीर्षक</string>
+    <string name="book_a_vehicle">"बुक ए व्हीकल "</string>
+    <string name="trip_management">यात्रा प्रबंधन</string>
+    <string name="authorized_franchise">अधिकृत फ्रेंचाइजी</string>
+    <string name="user_details">उपयोगकर्ता की जानकारी</string>
+    <string name="task">काम</string>
+    <string name="search">"तलाशी"</string>
+    <string name="ride_code">"राइड कोड"</string>
+    <string name="payment_mode">भुगतान का प्रकार</string>
+    <string name="owner_choose">"स्वामी:"</string>
+    <string name="mobile_number">"मोबाइल नंबर"</string>
+    <string name="final_amount">"अंतिम राशी"</string>
+    <string name="driver_details">ड्राइवर का विवरण</string>
+    <string name="distance_choose">दूरी: </string>
+    <string name="booking_time">"बुकिंग का समय"</string>
+    <string name="booking_status">"बुकिंग स्थिति"</string>
+    <string name="booking_date">"बुक करने की तिथि"</string>
+    <string name="body_type_choose">शरीर के प्रकार: </string>
+    <string name="capacity_choose">"क्षमता:"</string>
+    <string name="back_to_home">"घर वापिस"</string>
+    <string name="booking_id">बुकिंग आईडी</string>
+    <string name="booking_id_choose">बुकिंग आईडी:</string>
+    <string name="total_fare">कुल किराया</string>
+    <string name="name">नाम</string>
+    <string name="payment_method">भुगतान का तरीका</string>
+    <string name="pickup_location">उठाने की जगह</string>
+    <string name="drop_location">ड्रॉप लोकेशन</string>
+    <string name="total_loads">कुल भार</string>
+    <string name="party_owner_name">पार्टी/स्वामी का नाम</string>
+    <string name="driver">चालक</string>
+    <string name="track_truck">ट्रैक ट्रक</string>
+    <string name="cancel_trip">यात्रा रद्द करें</string>
+    <string name="raise_complaint">"शिकायत उठाएँ"</string>
+    <string name="call_now">कॉल करें</string>
+    <string name="any_type">" किसी भी तरह का"</string>
+    <string name="you_have_receiver_from">" आपको रु. अभय शर्मा से 1500/-"</string>
+    <string name="date">"दिनांक"</string>
+    <string name="time">"समय"</string>
+    <string name="container_truck">"कंटेनर ट्रक"</string>
+    <string name="view_details">" िवरण देखें"</string>
+    <string name="type_choose">"टाइप:"</string>
+    <string name="seat_capacity_choose">"सीट क्षमता: "</string>
+    <string name="final_fare_choose">"अंतिम किराया:"</string>
+    <string name="proceed">"आगे बढ़ना"</string>
+    <string name="book_now">"अभी बुक करें!"</string>
+    <string name="complaint_number">" शिकायत संख्या: "</string>
+    <string name="subject_choose">" विषय:"</string>
+    <string name="complaint_subject">" शिकायत विषय"</string>
+    <string name="type_your_concern">" अपनी चिंता लिखें"</string>
+    <string name="invoice_no">चालान नंबर</string>
+    <string name="remove">"हटाना "</string>
+    <string name="book_trip">यात्रा बुक करें</string>
+    <string name="paid">भुगतान किया गया</string>
+    <string name="select_your_reasons_for_ride_cancellation">" सवारी रद्द करने के लिए अपने कारणों का चयन करें"</string>
+    <string name="write_your_reason_for_ride_cancellation">" सवारी रद्द करने का अपना कारण लिखें"</string>
+    <string name="your_trip_code">" आपका ट्रिप कोड"</string>
+    <string name="share_this_trip_code_with_your_driver_to_start_ride.">" सवारी शुरू करने के लिए इस यात्रा कोड को अपने ड्राइवर के साथ साझा करें।"</string>
+    <string name="rides_completed">" सवारी पूर्ण"</string>
+    <string name="call_driver">" कॉल ड्राइवर"</string>
+    <string name="reschedule_trip">" पुनर्निर्धारित यात्रा"</string>
+    <string name="wheeler">" व्हीलर"</string>
+    <string name="demo">डेमो</string>
+    <string name="truck_type_head">" ट्रक का प्रकार"</string>
+    <string name="select_truck_type">" ट्रक का प्रकार चुनें"</string>
+    <string name="select_capacity">" क्षमता का चयन करें"</string>
+    <string name="body_type">" शरीर के प्रकार"</string>
+    <string name="select_body_type">" बॉडी टाइप चुनें"</string>
+    <string name="select_no_of_tyres">" टायरों की संख्या चुनें"</string>
+    <string name="enter_otp">" ओटीपी दर्ज करें"</string>
+    <string name="digit_6_OTP_has_been_sent_to_your_mobile_number">आपके मोबाइल नंबर पर 6 अंकों का ओटीपी भेजा गया है</string>
+    <string name="resend_otp">" ओटीपी पुनः भेजें"</string>
+    <string name="cancel">" रद्द करें"</string>
+    <string name="LogOut_q">" लॉग आउट?"</string>
+    <string name="are_you_sure_want_to_log_out">क्या आप वाकई लॉग आउट करना चाहते हैं?</string>
+    <string name="please_complete_your_profile">" कृपया अपना प्रोफ़ाइल पूरा करें"</string>
+    <string name="before_book_the_trip_You_Need_to_Complete_Your_Profile">यात्रा बुक करने से पहले, आपको अपना प्रोफ़ाइल पूरा करने की आवश्यकता है</string>
+    <string name="go_To_The_Profile_And_Fill_The_Required_Details">प्रोफाइल पर जाएं और आवश्यक विवरण भरें</string>
+    <string name="ok">ठीक है</string>
+    <string name="proceed_to_Add_Money">पैसा जोड़ने के लिए आगे बढ़ें</string>
+    <string name="add_Money_to_Wallet">वॉलेट में पैसे जोड़ें</string>
+    <string name="ride_cancelled">सवारी रद्द</string>
+    <string name="confirm_cancellation">" रद्द करने की पुष्टि करें"</string>
+    <string name="terms_and_Conditions_apply">" नियम व शर्तें लागू।"</string>
+    <string name="write_a_review">" एक समीक्षा लिखे"</string>
+    <string name="how_was_your_ride_with">" के साथ आपका सफर कैसा रहा"</string>
+    <string name="write_your_feedback">अपनी प्रतिक्रिया लिखें</string>
+    <string name="submit_Your_Feedback">" अपनी प्रतिक्रिया सबमिट करें"</string>
+    <string name="add_money">" पैसे जोड़ें"</string>
+    <string name="total_balance">" कुल शेष"</string>
+    <string name="download">" डाउनलोड"</string>
+    <string name="name_choose">" नाम:"</string>
+    <string name="mobile_number_choose">" मोबाइल नंबर:"</string>
+    <string name="transporter_loads_choose">" ट्रांसपोर्टर लोड:"</string>
+    <string name="total_completed_trips_choose">" कुल पूर्ण यात्राएं:"</string>
+    <string name="rating_and_reviews">" रेटिंग और समीक्षाएं"</string>
+    <string name="rating">" रेटिंग"</string>
+    <string name="reviews">" समीक्षा"</string>
+    <string name="whatsapp_updates">" व्हाट्सएप अपडेट"</string>
+    <string name="sms_and_Email_Alert_Service">" एसएमएस और ईमेल अलर्ट सेवा"</string>
+    <string name="choose_language">" भाषा चुनें"</string>
+    <string name="english">" अंग्रेज़ी"</string>
+    <string name="ride_completed">" सवारी पूरी हुई"</string>
+    <string name="pick_up_date">" पिक करने की तिथि"</string>
+    <string name="pick_up_time">" समय लेने"</string>
+    <string name="drop_off_date">" बाहर निकलने की तिथि"</string>
+    <string name="drop_off_time">" ड्रॉप ऑफ टाइम"</string>
+    <string name="total_paid_amount">" कुल भुगतान राशि"</string>
+    <string name="amount">" राशि"</string>
+    <string name="total_fare_inc_gst">कुल किराया (इंक जीएसटी)</string>
+    <string name="invite_your_friend_and_family">अपने मित्र और परिवार को आमंत्रित करें</string>
+    <string name="next_trip">अगली यात्रा</string>
+    <string name="your_referral_code">आपका रेफरल कोड</string>
+    <string name="tap_to_copy">कॉपी करने के लिए टैप करें</string>
+    <string name="refer_now">राइट नाउ</string>
+    <string name="eta_pickup_location">ईटीए पिकअप स्थान</string>
+    <string name="drop">ड्रॉप</string>
+    <string name="pending">लंबित</string>
+    <string name="started">शुरू कर दिया</string>
+    <string name="completed">पुरा।</string>
+    <string name="min_left_to_reach_destination">गंतव्य तक पहुंचने में 20 मिनट शेष हैं</string>
+    <string name="live_vehicle_tracking">लाइव वाहन ट्रैकिंग</string>
+    <string name="invoice">चालान</string>
+    <string name="invoice_date_and_time">चालान की तारीख</string>
+    <string name="vehicle_details">वाहन की सूचना</string>
+    <string name="trip_details">यात्रा विवरण</string>
+    <string name="departure_palce">प्रस्थान स्थान</string>
+    <string name="arrival_palce">आगमन स्थान</string>
+    <string name="complete_date">पूर्ण दिनांक</string>
+    <string name="charges">प्रभार</string>
+    <string name="gst_12">+जीएसटी (12%)</string>
+    <string name="cgst_8">+सीजीएसटी (8%)</string>
+    <string name="total_amount">कुल राशि</string>
+    <string name="share">शेयर</string>
+    <string name="date_choose">तारीख:</string>
+    <string name="complaint">शिकायत</string>
+    <string name="admin_remarks">Admin Remarks</string>
+    <string name="admin_remarks_here">व्यवस्थापक टिप्पणियाँ</string>
+    <string name="resolved">हल किया</string>
+    <string name="not_resolved">हल नहीं किया गया</string>
+    <string name="edit_profile">प्रोफ़ाइल संपादित करें</string>
+    <string name="login_now">लॉगिन करें</string>
+    <string name="get_otp">ओटीपी प्राप्त करें</string>
+    <string name="enter_amount">राशि डालें</string>
+    <string name="add">जोड़</string>
+    <string name="driver_charges">ड्राइवर शुल्क</string>
+    <string name="fuel_charges">ईंधन शुल्क</string>
+    <string name="toll_tax">टोल टैक्स</string>
+    <string name="tax">टैक्स</string>
+    <string name="total_amount1">कुल राशि</string>
+    <string name="cgst">+सीजीएसटी (8%)</string>
+    <string name="advance_payment_amount">अग्रिम भुगतान राशि</string>
+    <string name="no_of_vehicles">वाहनों की संख्या:</string>
+    <string name="booking_success">बुकिंग सफल!</string>
+    <string name="head_office">प्रधान कार्यालय</string>
+    <string name="call_us">हमें कॉल करें</string>
+    <string name="email_us">हमें ईमेल करें</string>
+    <string name="seat_capacity">सीट क्षमता:</string>
+    <string name="add_to_favourites">पसंदीदा करने के लिए जोड़ें</string>
+    <string name="no_item_in_cart">कार्ट में कोई आइटम नहीं!</string>
+    <string name="payment_methods">भुगतान की विधि</string>
+    <string name="google_pay">गूगल पे</string>
+    <string name="upi">यूपीआई</string>
+    <string name="paytm">पेटीएम</string>
+    <string name="credit_or_debiot_card">क्रेडिट या डेबिट कार्ड</string>
+    <string name="cash">नकद</string>
+    <string name="select">चुनना</string>
+    <string name="no_ongoing_booking_history_found">कोई चालू बुकिंग इतिहास नहीं मिला!</string>
+    <string name="loading">लोडिंग...</string>
+
+
+
+
+
+
+
+
+
+    <array name="truck_type">
+        <item>
+            Container
+        </item>
+        <item>
+            2XL
+        </item>
+
+
+    </array>
+
+
+    <string name="transactions">ट्रांजेक्शन इतिहास</string>
+
+
+
+    <string-array name="PaymentMode">
+        <item>भुगतान मोड चुनें</item>
+        <item>नकद</item>
+        <item>ऑनलाइन</item>
+    </string-array>
+
+
+
+
+    <string-array name="loaderHistory">
+        <item>चल रहे</item>
+        <item>समाप्त</item>
+        <item>रद्द</item>
+    </string-array>
+
+    <string name="and_earn_cashback_on_your">देखें और 10% कैशबैक कमाएँ</string>
+
+
+</resources>

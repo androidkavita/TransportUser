@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+
+
+<!--        <item-->
+<!--            android:id="@+id/homeFragment"-->
+<!--            android:title="Home"/>-->
+
+        <item
+            android:id="@+id/newBookingFragment"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/profileFragment"
+            android:title="My Profile"/>
+
+            <item android:id="@+id/bookingHistoryFragment"
+                    android:title="Booking History"/>
+        <item
+            android:id="@+id/transanctionReportFragment"
+            android:title="Transaction Report" />
+
+
+
+        <item
+            android:id="@+id/notificationFragment"
+            android:title="Notifications" />
+
+        <item
+            android:id="@+id/offersFragment"
+            android:title="Offers" />
+
+        <item
+            android:id="@+id/rewardsAndEarnFragment"
+            android:title="Rewards And Earn" />
+        <item
+            android:id="@+id/contactUsFragment"
+            android:title="Contact us" />
+        <item
+            android:id="@+id/aboutUsFragment"
+            android:title="About us" />
+
+        <item
+            android:id="@+id/rateApplication"
+            android:title="Rate Application" />
+        <item
+            android:id="@+id/privacyPolicyFragment"
+            android:title="Privacy Policy" />
+
+        <item
+            android:id="@+id/termsAndConditionsFragment"
+            android:title="Terms And Conditions"/>
+
+        <item
+            android:id="@+id/logout"
+            android:title="Logout" />
+
+
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#EB8900</color>
+    <color name="purple_700">#EB8900</color>
+    <color name="teal_200">#f2f6f7</color>
+    <color name="teal_700">#f2f6f7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#eb8900</color>
+    <color name="grey">#b3b3b3</color>
+    <color name="light_red">#db4a39</color>
+    <color name="blue_fb">#3b5999</color>
+    <color name="light_grey">#f2f6f7</color>
+    <color name="grey_2">#e7e7e7</color>
+    <color name="dark_grey">#7e7e7e</color>
+    <color name="light_orange">#ffd59b</color>
+    <color name="dark_orange">#eb5f00</color>
+    <color name="brown">#ac7c39</color>
+    <color name="off_white">#ffebd0</color>
+    <color name="green">#00d257</color>
+    <color name="gray">#706E6E</color>
+    <color name="lightgray">#8E8E92</color>
+
+    <color name="grey_lite">#E0E0E0</color>
+    <color name="very_light_gray">#DDDDDF</color>
+    <color name="vvery_light_gray">#F4F4F4</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="darkgray">#373737</color>
+    <color name="icon_dot_gray">#AEAEAE</color>
+
+    <color name="theme_yellow">#EB8900</color>
+    <color name="theme_darkyellow">#eb6400</color>
+    <color name="settings_off">#BDBDBD</color>
+
+
+
+</resources>

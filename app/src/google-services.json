@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "882289262640",
+    "project_id": "govahan-a236a",
+    "storage_bucket": "govahan-a236a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882289262640:android:251ccdf4b1858e0749edf5",
+        "android_client_info": {
+          "package_name": "com.govahan.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMNDzzK9j97GHsiWRhcPnqF_aI3JP9zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882289262640:android:734b5aa0751baf8d49edf5",
+        "android_client_info": {
+          "package_name": "com.govahanpartner.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMNDzzK9j97GHsiWRhcPnqF_aI3JP9zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882289262640:android:eaf553ab06d7963849edf5",
+        "android_client_info": {
+          "package_name": "com.transportationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMNDzzK9j97GHsiWRhcPnqF_aI3JP9zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

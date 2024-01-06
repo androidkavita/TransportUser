@@ -1,0 +1,417 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">GoVahan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="api_key" translatable="false">AIzaSyD5gY5yoLsLO7lQZxze7nJL_dijCiaNnAA</string>-->
+    <string name="api_key" translatable="false">AIzaSyAQq7DPHvXZdcpLwxOYyKBBzszgkTJSMOw</string>
+
+    <string name="make_sure_you_have_an_active_data_connection">Make sure you have an active data connection</string>
+    <string name="connection_timeout">Connection Timeout</string>
+    <string name="oops_somethings_went_wrong">Oops! Somethings went wrong</string>
+    <string name="default_notification_channel_id" translatable="false">Transport</string>
+
+
+    <array name="truck_type">
+        <item>
+            Container
+        </item>
+
+        <item>
+            2XL
+        </item>
+
+
+    </array>
+
+    <string name="password">**********</string>
+
+
+    <string name="from">From</string>
+    <string name="gurugram">Gurugram</string>
+    <string name="to">To</string>
+    <string name="noida">Noida</string>
+    <string name="selectdate">Select Date</string>
+    <string name="selecttime">Select Time Slot</string>
+    <string name="datehint">12-July-2022</string>
+    <string name="timehint">12:00 PM</string>
+    <string name="blank">"blank "</string>
+
+
+    <string name="myprofile">My Profile</string>
+    <string name="bookinghistory">Booking History</string>
+    <string name="favouritelocations">Favourite Locations</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="invoices">Invoices</string>
+    <string name="paymentoptions">Payment Options</string>
+    <string name="transactions">Transaction History</string>
+    <string name="myoffers">My Offers</string>
+    <string name="complaintbox">Complaint Box</string>
+    <string name="aboutus">About us</string>
+    <string name="cancellation">
+Cancellation &amp; Refund Policy</string>
+    <string name="rateapp">Rate Application</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string name="first_name">First Name</string>
+    <string name="mobileno">Mobile No.</string>
+    <string name="mobnumber">880222****</string>
+    <string name="email_address">E-mail Address</string>
+    <string name="examplegmail">Example@gmail.com</string>
+    <string name="gst_no">GST No.</string>
+    <string name="gstnum">22AAAAA0000A125</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="vehicle_registration_no">Vehicle Registration No.</string>
+    <string name="reg_no">UP 3D 1234</string>
+    <string name="type_of_vehicles">Type of vehicles</string>
+    <string name="total_driver">Total Driver</string>
+    <string name="driver_name">Driver Name : </string>
+    <string name="driver_name_choose">Driver Name: </string>
+    <string name="driver_license_number">Driver License Number</string>
+    <string name="addmore">ADD MORE</string>
+    <string name="submit">Submit</string>
+    <string name="userid">User Id</string>
+    <string name="headpassword">Password</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="or">Or</string>
+    <string name="head_accountverification">Account Verification</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="entermobileno">Enter Mobile Number</string>
+    <string name="referralcode">Referral Code (optional)</string>
+    <string name="next">Next</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="otp">OTP</string>
+    <string name="createpassword">Create Password</string>
+    <string name="r_password">Password</string>
+    <string name="r_confirm_password">Confirm Password</string>
+    <string name="done">Done</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="passengervehicle">Passenger Vehicle</string>
+    <string name="loadervehicle">Loader Vehicle</string>
+    <string name="selectservicetype">Select service type</string>
+    <string name="createbusinesscard">Create Business Card</string>
+    <string name="addtrip">Add Trip</string>
+    <string name="viewtrip">View Trip</string>
+    <string name="tripbook">Trip Book</string>
+    <string name="truckdocument">Truck Document</string>
+    <string name="adddriver">Add Driver</string>
+    <string name="companyname">Company Name</string>
+    <string name="fullname">Full Name</string>
+    <string name="phoneno">Phone No.</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="bsltransport">BSL Transport</string>
+    <string name="pramod">Pramod Gupta</string>
+    <string name="hintphn">+91 123456789</string>
+    <string name="hintaddress">Type your address here</string>
+    <string name="downloadpdf">Download as a PDF</string>
+    <string name="drivername">Driver Name</string>
+    <string name="drivingexperience">Driving Experience</string>
+    <string name="licensenumber">HR-7777******</string>
+    <string name="username">User Name</string>
+    <string name="usernamehint">user@3456</string>
+    <string name="driving_license_number">Driving License Number</string>
+    <string name="years5">5 years</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="addthisdriver">ADD THIS DRIVER</string>
+
+
+    <string name="transactionreport">Transaction Report</string>
+    <string name="notification">Notification</string>
+
+    <string name="rateapplication">Rate Application</string>
+    <string name="referandearn">Refer &amp; Earn</string>
+    <string name="term_and_condition">Term And Condition</string>
+
+    <string name="driverlist">Driver List</string>
+    <string name="ramesh">Ramesh Solanki</string>
+    <string name="licno">Lic. No. HR-0619850034761</string>
+
+
+    <string name="triptask">Trip Task</string>
+    <string name="officeshifting">Office Shifting</string>
+    <string name="enterloadcarrying">Enter Load Carrying</string>
+    <string name="ton5">5 Ton</string>
+
+    <string name="vehicletype">Vehicle Type</string>
+    <string name="tatarigidtruck">Tata Rigid Truck</string>
+    <string name="vehiclenumber">Vehicle Number</string>
+    <string name="up5c4589">UP 5C 4589</string>
+    <string name="assigndriver">Assign Driver</string>
+
+    <string name="totalkilometers">Total Kilometers</string>
+    <string name="hintkilom">350</string>
+    <string name="price">Price</string>
+    <string name="pricehint">Rs. 5,000</string>
+    <string name="addthistrip">Add This Trip</string>
+
+    <string name="addtruckdoc">Add Truck Documents</string>
+    <string name="specification">Specification</string>
+    <string name="truckname">Truck Name</string>
+    <string name="hinttataintra">Tata Intra v30</string>
+    <string name="yearofmodel">Year of Model</string>
+    <string name="hint2015">2015</string>
+    <string name="trucknumber">Truck Number</string>
+    <string name="capacity">Capacity : </string>
+    <string name="seatingcapacity">Seating Capacity</string>
+    <string name="color">Color</string>
+    <string name="silvergray">Silver Gray</string>
+    <string name="uploadtruckphoto">Upload Your Truck Photo</string>
+    <string name="uploaddoc">Upload Documents</string>
+    <string name="rcbook">Rc Book</string>
+    <string name="rcbookpdf">Rc-book.jpg</string>
+    <string name="insurancedoc">Insurance Document</string>
+    <string name="insurancedocpdf">Insurance-Document.pdf</string>
+    <string name="pollutiondoc">Pollution Document</string>
+    <string name="pollutiondocpdf">Pollution-Document.pdf</string>
+    <string name="approvalwait">Wait for approval!</string>
+    <string name="approvalwaittext">Please wait for approval from admin.</string>
+
+    <string name="upcomingbookings">Upcoming Bookings</string>
+    <string name="hint_truckname">Tata 407</string>
+    <string name="hint_ton">2.5 Ton</string>
+    <string name="hint_date">30 May 2022</string>
+    <string name="hint_start">Sec. 15 Noida</string>
+    <string name="hint_stop">Gurugram sector 30</string>
+    <string name="hint_distance">41.5 Km</string>
+    <string name="hint_bookingid">"Booking id: "</string>
+    <string name="loremdummytext">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+
+    <string name="passenger_vehicle">Passenger Vehicle</string>
+    <string name="role">Role</string>
+    <string name="addPassengerVehicle">Add Passenger Vehicle</string>
+    <string name="vehiclenname">Vehicle Name</string>
+    <string name="rcphoto">RC Photo</string>
+    <string name="fitnesspapers">Vehicle Fitness Papers</string>
+    <string name="rto_doc">RTO Document</string>
+    <string name="drivers">Driver</string>
+    <string name="freightamount">Freight Amount</string>
+    <string name="rameshemail">ramesh@2345</string>
+
+    <string name="contactus">Contact us</string>
+    <string name="check_network_connection">Please check your Internet connection</string>
+
+
+    <string-array name="PaymentMode">
+        <item>Select payment Mode</item>
+        <item>Cash</item>
+        <item>Online</item>
+    </string-array>
+    <string name="title_activity_settings">Settings Activity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Message</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+    <string name="enter_trip_task">Enter Trip task</string>
+    <string name="search_here">Search Here</string>
+    <string name="no_of_tyres">Number of Tyres</string>
+    <string name="search_and_proceed">Search &amp; Proceed"</string>
+    <string name="heading">Heading</string>
+    <string name="book_a_vehicle">Book A Vehicle</string>
+    <string name="trip_management">Trip Management</string>
+
+    <string name="authorized_franchise">Authorized Franchise</string>
+    <string name="search">SEARCH</string>
+    <string name="task">Task</string>
+    <string name="body_type_choose">Body Type : </string>
+    <string name="capacity_choose">Capacity : </string>
+    <string name="distance_choose">Distance : </string>
+    <string name="owner_choose">Owner : </string>
+    <string name="booking_date">Booking Date</string>
+    <string name="booking_time">Booking Time</string>
+    <string name="driver_details">Driver Details</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile No.</string>
+    <string name="user_details">User Details</string>
+    <string name="final_amount">Final Amount</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="booking_status">Booking Status</string>
+    <string name="ride_code">Ride Code</string>
+    <string name="back_to_home">back to home</string>
+    <string name="booking_id">Booking Id </string>
+    <string name="booking_id_choose">Booking Id: </string>
+    <string name="total_fare">Total Fare</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="drop_location">Drop Location</string>
+    <string name="total_loads">Total Loads</string>
+    <string name="party_owner_name">Party/Owner Name</string>
+    <string name="driver">Driver</string>
+    <string name="track_truck">TRACK TRUCK</string>
+    <string name="cancel_trip">Cancel Trip</string>
+    <string name="raise_complaint">Raise Complaint</string>
+    <string name="call_now">Call Now</string>
+    <string name="any_type">Any Type</string>
+    <string name="you_have_receiver_from">You have received Rs. 1500/- from Abhay Sharma</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="container_truck">Container Truck</string>
+    <string name="view_details">View Details</string>
+    <string name="type_choose">Type: </string>
+    <string name="seat_capacity_choose">Seat Capacity: </string>
+    <string name="final_fare_choose">Final Fare: </string>
+    <string name="proceed">PROCEED</string>
+    <string name="book_now">BOOK NOW!</string>
+    <string name="complaint_number">Complaint No.: </string>
+    <string name="subject_choose">Subject: </string>
+    <string name="complaint_subject">Complaint Subject</string>
+    <string name="type_your_concern">Type your concern</string>
+
+
+    <string name="invoice_no">Invoice No.</string>
+    <string name="remove">Remove</string>
+    <string name="book_trip">Book Trip</string>
+    <string name="paid">Paid</string>
+    <string name="select_your_reasons_for_ride_cancellation">Select Your Reasons for Ride Cancellation</string>
+    <string name="write_your_reason_for_ride_cancellation">Write Your Reason for Ride Cancellation</string>
+    <string name="your_trip_code">Your Trip Code</string>
+    <string name="share_this_trip_code_with_your_driver_to_start_ride.">Share this trip code with your driver to start ride.</string>
+    <string name="rides_completed">Rides Completed</string>
+    <string name="call_driver">Call Driver</string>
+    <string name="reschedule_trip">Reschedule Trip</string>
+    <string name="wheeler">Wheeler</string>
+
+
+    <string-array name="loaderHistory">
+        <item>Ongoing</item>
+        <item>Completed</item>
+        <item>Cancelled</item>
+    </string-array>
+
+
+    <string name="demo">demo</string>
+    <string name="truck_type_head">Truck Type</string>
+    <string name="select_truck_type">Select Truck Type</string>
+    <string name="select_capacity">Select capacity</string>
+    <string name="body_type">Body Type : </string>
+    <string name="select_body_type">Select body type</string>
+    <string name="select_no_of_tyres">Select no. of tyres</string>
+    <string name="enter_otp">Enter Otp</string>
+    <string name="digit_6_OTP_has_been_sent_to_your_mobile_number">6 digit OTP has been sent to your mobile number</string>
+    <string name="resend_otp">Resend Otp</string>
+    <string name="cancel">Cancel</string>
+    <string name="LogOut_q">Log Out?</string>
+    <string name="are_you_sure_want_to_log_out">Are you sure want to log out?</string>
+    <string name="please_complete_your_profile">Please Complete Your Profile</string>
+    <string name="before_book_the_trip_You_Need_to_Complete_Your_Profile">Before book the trip,\nYou Need to Complete Your Profile</string>
+    <string name="go_To_The_Profile_And_Fill_The_Required_Details">Go To The Profile And Fill The\nRequired Details</string>
+    <string name="ok">OK</string>
+    <string name="proceed_to_Add_Money">Proceed to Add Money</string>
+    <string name="add_Money_to_Wallet">Add Money to Wallet</string>
+    <string name="ride_cancelled">Ride Cancelled</string>
+    <string name="confirm_cancellation">Confirm Cancellation</string>
+    <string name="terms_and_Conditions_apply">Terms and Conditions apply.</string>
+    <string name="write_a_review">Write a Review</string>
+    <string name="how_was_your_ride_with">How was your ride with</string>
+    <string name="write_your_feedback">Write your feedback</string>
+    <string name="submit_Your_Feedback">Submit Your Feedback</string>
+    <string name="add_money">Add Money</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="download">Download</string>
+    <string name="name_choose">Name:</string>
+    <string name="mobile_number_choose">Mobile Number:</string>
+    <string name="transporter_loads_choose">Transporter Loads:</string>
+    <string name="total_completed_trips_choose">Total Completed Trips:</string>
+    <string name="rating_and_reviews">Rating And Reviews</string>
+    <string name="rating">Rating</string>
+    <string name="reviews">Reviews</string>
+    <string name="whatsapp_updates">Whatsapp Updates</string>
+    <string name="sms_and_Email_Alert_Service">SMS And Email Alert Service</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="ride_completed">Ride Completed</string>
+    <string name="pick_up_date">Pick up date</string>
+    <string name="pick_up_time">Pick up time</string>
+    <string name="drop_off_date">Drop off date</string>
+    <string name="drop_off_time">Drop off time</string>
+    <string name="total_paid_amount">Total Paid Amount</string>
+    <string name="amount">Amount</string>
+    <string name="total_fare_inc_gst">Total Fare (Inc. GST)</string>
+    <string name="invite_your_friend_and_family">Invite Your Friend &amp; Family</string>
+    <string name="and_earn_cashback_on_your" translatable="false">Refer And Earn 10% Cash Back </string>
+    <string name="next_trip">Next Trip</string>
+    <string name="your_referral_code">Your Referral Code</string>
+    <string name="tap_to_copy">Tap To Copy</string>
+    <string name="refer_now">Refer Now</string>
+    <string name="eta_pickup_location">ETA Pickup Location</string>
+    <string name="drop">Drop</string>
+    <string name="pending">Pending</string>
+    <string name="started">Started</string>
+    <string name="completed">Completed</string>
+    <string name="min_left_to_reach_destination">20 min left to reach destination</string>
+    <string name="live_vehicle_tracking">Live Vehicle Tracking</string>
+    <string name="invoice">Invoice</string>
+    <string name="invoice_date_and_time">Invoice Date</string>
+    <string name="vehicle_details">Vehicle Details</string>
+    <string name="trip_details">Trip Details</string>
+    <string name="departure_palce">Departure Place</string>
+    <string name="arrival_palce">Arrival Place</string>
+    <string name="complete_date">Complete Date</string>
+    <string name="charges">Charges</string>
+    <string name="gst_12">+GST (12%)</string>
+    <string name="cgst_8">+CGST (8%)</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="share">Share</string>
+    <string name="date_choose">Date:</string>
+    <string name="complaint">Complaint</string>
+    <string name="admin_remarks">Admin Reply</string>
+    <string name="admin_remarks_here">admin remarks here</string>
+    <string name="resolved">Resolved</string>
+    <string name="not_resolved">Not Resolved</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="login_now">Login Now</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="add">Add</string>
+    <string name="driver_charges">Driver Charges</string>
+    <string name="fuel_charges">Fuel Charges</string>
+    <string name="toll_tax">Toll Tax</string>
+    <string name="tax">Tax</string>
+    <string name="total_amount1">Total Amount</string>
+    <string name="cgst">+CGST (8%)</string>
+    <string name="advance_payment_amount">Advance Payment Amount</string>
+    <string name="no_of_vehicles">No. of vehicles:</string>
+    <string name="booking_success">Booking Success!</string>
+    <string name="head_office">Head Office</string>
+    <string name="call_us">CALL US</string>
+    <string name="email_us">EMAIL US</string>
+    <string name="seat_capacity">Seat Capacity:</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="no_item_in_cart">No item in cart!</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="upi">UPI</string>
+    <string name="paytm">Paytm</string>
+    <string name="credit_or_debiot_card">Credit or Debit Card</string>
+    <string name="cash">Cash</string>
+    <string name="select">SELECT</string>
+    <string name="no_ongoing_booking_history_found">No ongoing booking history found!</string>
+    <string name="loading">Loading...</string>
+
+
+</resources>
